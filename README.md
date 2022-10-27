@@ -1,4 +1,4 @@
-#### seerbit-apis
+#### Seerbit-apis
 ##### Project is on Master branch
 
 ##### Written in java 11
