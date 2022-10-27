@@ -6,6 +6,6 @@
 ##### Program runs on port 8080
 
 ##### Program already configured with Swagger.
-##### This can be accessed on http://localhost:8080/swagger-ui/index.html#/ when the program is up and running.
+##### Accessible on http://localhost:8080/swagger-ui/index.html#/ when the program is up and running.
 
 
